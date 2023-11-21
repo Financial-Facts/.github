@@ -1,5 +1,3 @@
-![header](https://github.com/Financial-Facts/.github/assets/74555083/82b5a214-1d53-4e8a-b4ab-c67577b8121e)
-
 # Welcome to Financial Facts Org – Your Gateway to Undervalued Stocks!
 
 ## About Us
