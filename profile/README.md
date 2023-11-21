@@ -1,4 +1,6 @@
-# Welcome to Financial Facts Org – Your Gateway to Undervalued Stocks!
+# Financial Facts Org
+
+Welcome to Financial Facts Org – Your Gateway to Undervalued Stocks!
 
 ## About Us
 
