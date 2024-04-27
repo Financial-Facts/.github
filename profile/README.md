@@ -22,7 +22,7 @@ We provide not only the current valuation of stocks but also the financial data 
 
 ## How to Get Started
 
-1. **Explore the Stock Listings**: Check out our regularly updated list of undervalued stocks using the public API endpoints at https://financial-facts.net/swagger-ui/index.html
+1. **Explore the Stock Listings**: Check out our regularly updated list of undervalued stocks at https://financial-facts.net
 
 2. **Access Financial Data**: Dive deep into the historical financial data to understand the fundamentals of each stock.
 
